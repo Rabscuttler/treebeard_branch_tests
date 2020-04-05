@@ -1,7 +1,5 @@
 notebooks:
   - master.ipynb
-secret:
-output_dirs:
 ignore:
   - .ipynb_checkpoints
   - .git
