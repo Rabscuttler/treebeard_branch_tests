@@ -1,6 +1,6 @@
 # treebeard_branch_tests
 
-![](https://images1-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&url=https://img.shields.io/endpoint?url=https://api.treebeard.io/b44c784b10/treebeard_branch_tests/master/buildbadge)
+![](https://img.shields.io/endpoint?url=https://api.treebeard.io/b44c784b10/treebeard_branch_tests/master/buildbadge)
 
 testing treebeard builds with on different branches
 
